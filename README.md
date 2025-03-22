@@ -1,1 +1,1 @@
-rdtgykjl
+This project is designed to help beginners learn the essential Python programming concepts. It covers the fundamentals of Python, including syntax, variables, data types, control flow, functions, loops, and more. This repository includes simple Python scripts and examples to demonstrate each concept.
